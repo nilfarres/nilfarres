@@ -14,17 +14,17 @@ I'm **Nil Farrés Soler**, a meteorology enthusiast with a strong background in 
 - **Graph Neural Networks (GNNs)** 🔗  
 - **Meteorology & Climate Science** ⛅  
 - **Big Data Processing & Analysis** 📊
+- **High level of Catalan, Spanish, and English**, and a **basic level of French**.
 
 ## 🎯 Current Goals  
-- 🔍 Enhancing meteorological predictions using **Graph Neural Networks**.  
+- 🔍 Enhancing meteorological predictions using **Graph Neural Networks** in my final degree project.  
 - 📈 Exploring innovative AI techniques to improve climate and weather forecasting. 
 - 🇩🇪 Learning **German** as a new challenge!  
 
 ## 🤝 Let's Connect!  
 Feel free to reach out if you want to chat about **meteorology, AI, or data science**, or if you're interested in collaborating on projects related to data science, weather forecasting and climate analysis.  
 
-📫 Contact me: **[nil.farres@autonoma.cat]**  
-    You can also connect with me on Linkedin **[www.linkedin.com/in/nil-farrés-soler-685bb129a]**
+📫 Contact me: [nil.farres@autonoma.cat]. You can also connect with me on Linkedin [www.linkedin.com/in/nil-farrés-soler-685bb129a].
 🌍 Check out my repositories to see my latest work!  
 
 ---
