@@ -25,6 +25,7 @@ I'm **Nil Farrés Soler**, a meteorology enthusiast with a strong background in 
 Feel free to reach out if you want to chat about **meteorology, AI, or data science**, or if you're interested in collaborating on projects related to data science, weather forecasting and climate analysis.  
 
 📫 Contact me: [nil.farres@autonoma.cat]. You can also connect with me on Linkedin [www.linkedin.com/in/nil-farrés-soler-685bb129a].
+
 🌍 Check out my repositories to see my latest work!  
 
 ---
