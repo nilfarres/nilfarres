@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm **Nil Farrés Soler**, a meteorology enthusiast with a strong background in data science, computational mathematics and machine learning. Passionate about understanding and predicting atmospheric phenomena, I'm currently working on Graph Neural Networks applied to meteorological data for my final degree project.
+I'm a Data Science with a strong background in computational mathematics, machine learning and meteorology. Passionate about understanding and predicting atmospheric phenomena, I'm currently working on Graph Neural Networks applied to meteorological data for my final degree project.
 
 ## 🚀 About Me  
 - 🎓 I'm currently finishing my **degree in Computational Mathematics & Data Analysis** at the **Universitat Autònoma de Barcelona**.
