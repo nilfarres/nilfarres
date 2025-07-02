@@ -1,9 +1,9 @@
 # Hi there! 👋  
 
-I'm a Data Science with a strong background in computational mathematics, machine learning and meteorology. Passionate about understanding and predicting atmospheric phenomena, I'm currently working on Graph Neural Networks applied to meteorological data for my final degree project.
+I'm a Data Science with a strong background in computational mathematics, machine learning and meteorology. Passionate about understanding and predicting atmospheric phenomena, I have been working on Graph Neural Networks applied to meteorological data for my final degree project.
 
 ## 🚀 About Me  
-- 🎓 I'm currently finishing my **degree in Computational Mathematics & Data Analysis** at the **Universitat Autònoma de Barcelona**.
+- 🎓 **Graduate in Computational Mathematics & Data Analysis** at the **Universitat Autònoma de Barcelona**.
 - 🌤️ I have experience in **data science**, **meteorology**, **diferent programming languages** and **machine learning**, focusing on neural networks and big data analysis.
 - 📡 My final degree project involves **Graph Neural Networks** for meteorological applications, leveraging high-performance computing resources at the **Computer Vision Center**.
 - 📺 I’ve had the opportunity to work with the **3Cat meteorology team**, gaining hands-on experience in weather forecasting and climate analysis.
@@ -18,8 +18,7 @@ I'm a Data Science with a strong background in computational mathematics, machin
 
 ## 🎯 Current Goals  
 - 🔍 Enhancing meteorological predictions using **Graph Neural Networks** in my final degree project.  
-- 📈 Exploring innovative AI techniques to improve climate and weather forecasting. 
-- 🇩🇪 Learning **German** as a new challenge!
+- 📈 Exploring innovative AI techniques to improve climate and weather forecasting.
 
 ## ⚡ Fun fact  
 Besides meteorology and AI, I **love exploring nature**! 🍃 Whether it's **hiking in the mountains**, **foraging for mushrooms in autumn**, or **skiing in winter**, I enjoy being outdoors and experiencing the changing seasons firsthand. I also have a deep passion for **music**! 🎶 I play the **trumpet** 🎺 and the **piano** 🎹, and I love **singing and composing my own songs**. Whether it's performing live or creating new melodies, music has always been an important part of my life.  
