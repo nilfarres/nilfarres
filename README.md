@@ -7,14 +7,14 @@ I'm a Data Science with a strong background in computational mathematics, machin
 - 🌤️ I have experience in **data science**, **meteorology**, **diferent programming languages** and **machine learning**, focusing on neural networks and big data analysis.
 - 📡 My final degree project involves **Graph Neural Networks** for meteorological applications, leveraging high-performance computing resources at the **Computer Vision Center**.
 - 📺 I’ve had the opportunity to work with the **3Cat meteorology team**, gaining hands-on experience in weather forecasting and climate analysis.
-- 📖 Next academic year, I'll be pursuing the **Master’s in Meteorology and Climate Sciences** at the **University of Barcelona**.
+- 📖 Now, I'm pursuing the **Master’s in Meteorology and Climate Sciences** at the **University of Barcelona**.
 
 ## 💡 Interests & Skills  
 - **Machine Learning, Deep Learning & Artificial Intelligence** 🧠  
 - **Graph Neural Networks (GNNs)** 🔗  
 - **Meteorology, weather forecasting, environment, renewable energy & climate change** ⛅  
 - **Big Data Processing & Analysis** 📊
-- **High level of Catalan, Spanish, and English**, and a **basic level of French**.📕
+- **High level of Catalan, Spanish, and English**, and a **basic level of French and German**.📕
 
 ## 🎯 Current Goals  
 - 🔍 Enhancing meteorological predictions using **Graph Neural Networks** in my final degree project.  
